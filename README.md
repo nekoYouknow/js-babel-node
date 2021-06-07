@@ -1,6 +1,6 @@
 # Using Babel ... step by step
 
-- yarn init -yarn
+- yarn init -y
 - yarn add @babel/core 
 - yarn add @babel/cli 
 - yarn add @babel/preset-env 
